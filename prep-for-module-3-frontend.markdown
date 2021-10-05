@@ -3,7 +3,7 @@
 ## Instructional Pre-Work for Mod 3
 
 ### Destructuring
-[] Destructuring is a helpful "shortcut" in JavaScript, and it's common to see it in React Code. While you'll never be *required* to use destructuring, you should definitely be able to work with it and understand how it works. Walk through [this lesson](https://frontend.turing.edu/lessons/module-2/intro-to-destructuring.html) and follow it up with some self study if you'd like to.
+- [] Destructuring is a helpful "shortcut" in JavaScript, and it's common to see it in React Code. While you'll never be *required* to use destructuring, you should definitely be able to work with it and understand how it works. Walk through [this lesson](https://frontend.turing.edu/lessons/module-2/intro-to-destructuring.html) and follow it up with some self study if you'd like to.
 
 ### Libraries and Frameworks
 
@@ -42,14 +42,14 @@ We are going to learn a new type of testing! In Mods 1 and 2, you learned about 
 
 Workflow is something you will deal with every day on the job. Let's continue strengthening our knowledge of workflow skills with these articles.
 
-[] Review [The Difference Between Forking and Cloning a Repository](https://github.community/t5/Support-Series/The-difference-between-forking-and-cloning-a-repository/ba-p/1372)
-[] Review [Updating a Remote's URL](https://help.github.com/en/articles/changing-a-remotes-url)
+- [ ] Review [The Difference Between Forking and Cloning a Repository](https://github.community/t5/Support-Series/The-difference-between-forking-and-cloning-a-repository/ba-p/1372)
+- [ ] Review [Updating a Remote's URL](https://help.github.com/en/articles/changing-a-remotes-url)
 
 ### Tooling 
 
-[] Install the [React Dev Tools.](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+- [ ] Install the [React Dev Tools.](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 
-[x] You'll need to make sure you've got the Xcode Command Line Tools before the mod starts. The CLT are necessary for many of React's dependencies to work as expected. 
+- [x] You'll need to make sure you've got the Xcode Command Line Tools before the mod starts. The CLT are necessary for many of React's dependencies to work as expected. 
 
 ```bash
 # to see whether you have the CLT, run:
