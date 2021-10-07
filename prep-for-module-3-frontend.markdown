@@ -3,11 +3,11 @@
 ## Instructional Pre-Work for Mod 3
 
 ### Destructuring
-- [ ] Destructuring is a helpful "shortcut" in JavaScript, and it's common to see it in React Code. While you'll never be *required* to use destructuring, you should definitely be able to work with it and understand how it works. Walk through [this lesson](https://frontend.turing.edu/lessons/module-2/intro-to-destructuring.html) and follow it up with some self study if you'd like to.
+- [x] Destructuring is a helpful "shortcut" in JavaScript, and it's common to see it in React Code. While you'll never be *required* to use destructuring, you should definitely be able to work with it and understand how it works. Walk through [this lesson](https://frontend.turing.edu/lessons/module-2/intro-to-destructuring.html) and follow it up with some self study if you'd like to.
 
 ### Libraries and Frameworks
 
-- [ ] What is a JavaScript framework? [Watch this video.](https://www.youtube.com/watch?v=sXA1zpv4DhA)
+- [x] What is a JavaScript framework? [Watch this video.](https://www.youtube.com/watch?v=sXA1zpv4DhA)
 - [ ] Why would we want to use a framework? [Read this article.](https://medium.com/dailyjs/the-deepest-reason-why-modern-javascript-frameworks-exist-933b86ebc445)
 
 There are a bunch of JavaScript frameworks out there to use. At Turing, we choose to teach **React** - it's one of the most popular frameworks out there. Actually, a lot of developers will call React a library, which it is...but it can also be described as a framework. It's a little confusing, but the lines are blurred for React. Let's just say that React is a library with some rules and conventions to follow.
@@ -26,24 +26,24 @@ Go through these resources to get started learning some React!
 
 We will continue to work with asynchronous JavaScript, mainly when we use network requests to get data from servers (like using the `fetch`). We will go in depth with asynchronous JavaScript, including how to test it in mod 3.
 
-- [ ] Watch [this video](https://www.youtube.com/watch?v=eesqK59rhGA) on details of the request/response cycle.
+- [x] Watch [this video](https://www.youtube.com/watch?v=eesqK59rhGA) on details of the request/response cycle.
 - [ ] Read [ajax in react](https://reactjs.org/docs/faq-ajax.html) to learn about incorporating network requests in React apps.
-- [ ] Watch [this video](https://www.youtube.com/watch?v=8aGhZQkoFbQ) on the event loop.
+- [x] Watch [this video](https://www.youtube.com/watch?v=8aGhZQkoFbQ) on the event loop.
 
 ### Testing paradigms
 
 We are going to learn a new type of testing! In Mods 1 and 2, you learned about unit testing (testing a single function or class) and integration testing (testing multiple functions/classes working together). In Mod 3, we are going to explore "end-to-end" (sometimes called E2E) testing!
 
 - [ ] Read [this blog post](https://www.guru99.com/end-to-end-testing.html) for a high level overview of E2E
-- [ ] Watch [this video](https://youtu.be/Fw98L-kcRpc) to learn about "user stories" in agile workflows - this will help us figure out how to write our E2E tests!
+- [x] Watch [this video](https://youtu.be/Fw98L-kcRpc) to learn about "user stories" in agile workflows - this will help us figure out how to write our E2E tests!
 - [ ] Practice writing user stories by creating some user stories for a Mod 2 or Mod 1 project
 
 ### Workflow
 
 Workflow is something you will deal with every day on the job. Let's continue strengthening our knowledge of workflow skills with these articles.
 
-- [ ] Review [The Difference Between Forking and Cloning a Repository](https://github.community/t5/Support-Series/The-difference-between-forking-and-cloning-a-repository/ba-p/1372)
-- [ ] Review [Updating a Remote's URL](https://help.github.com/en/articles/changing-a-remotes-url)
+- [x] Review [The Difference Between Forking and Cloning a Repository](https://github.community/t5/Support-Series/The-difference-between-forking-and-cloning-a-repository/ba-p/1372)
+- [x] Review [Updating a Remote's URL](https://help.github.com/en/articles/changing-a-remotes-url)
 
 ### Tooling 
 
