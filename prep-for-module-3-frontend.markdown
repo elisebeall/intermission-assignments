@@ -71,7 +71,7 @@ In Mod 3, you'll begin building up the habits you'll take with you beyond Turing
 ## Deliverables 
 
 ### 1. React Review *(required)*
-- [ ] Create a GitHub gist to answer these questions in as much detail as possible. Imagine someone is asking these questions in an interview (these are popular interview questions).
+- [x] Create a GitHub gist to answer these questions in as much detail as possible. Imagine someone is asking these questions in an interview (these are popular interview questions).
 
 * What is a "data model", and how does it relate to the DOM in a front-end application?
 * What is a "framework?" And how does it differ from a "library?"
